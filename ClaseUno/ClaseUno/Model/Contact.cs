@@ -10,6 +10,7 @@ namespace ClaseUno.Model
         [Required(ErrorMessage = "El correo electrónico es obligatorio")]
         [EmailAddress]
         public string Email { get; set; }
+
         [Phone]
         public string Phone { get; set; }
 

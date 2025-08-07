@@ -2256,11 +2256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antho\\OneDrive\\Escritorio\\Nueva carpeta\\ClaseUno\\ClaseUno\\ClaseUno.csproj",
+      "projectUniqueName": "C:\\Users\\antho\\OneDrive\\Escritorio\\PP-III\\ClaseUno\\ClaseUno\\ClaseUno.csproj",
       "projectName": "ClaseUno",
-      "projectPath": "C:\\Users\\antho\\OneDrive\\Escritorio\\Nueva carpeta\\ClaseUno\\ClaseUno\\ClaseUno.csproj",
+      "projectPath": "C:\\Users\\antho\\OneDrive\\Escritorio\\PP-III\\ClaseUno\\ClaseUno\\ClaseUno.csproj",
       "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\antho\\OneDrive\\Escritorio\\Nueva carpeta\\ClaseUno\\ClaseUno\\obj\\",
+      "outputPath": "C:\\Users\\antho\\OneDrive\\Escritorio\\PP-III\\ClaseUno\\ClaseUno\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config",

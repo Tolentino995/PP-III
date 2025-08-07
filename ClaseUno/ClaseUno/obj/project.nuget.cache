@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5m4SCWG3H+Q3YH8POXY4bkR/8m8vs++dkg1Pf9wViwQv/Xt0jsFDT4bjfhLrEfL9AWdyGs0+W9pZUcP8t3y5hA==",
+  "dgSpecHash": "uj6Ig0nOYKI+ftG9SZyeB7LVq+ynwVx4L5O7TGY0m+TSScrTq3CteDoHQDqFb32bf9M/TZk6od33N3ElzOCB7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\antho\\OneDrive\\Escritorio\\Nueva carpeta\\ClaseUno\\ClaseUno\\ClaseUno.csproj",
+  "projectFilePath": "C:\\Users\\antho\\OneDrive\\Escritorio\\PP-III\\ClaseUno\\ClaseUno\\ClaseUno.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antho\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

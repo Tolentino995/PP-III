@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\antho\\OneDrive\\Escritorio\\Nueva carpeta\\ClaseUno\\",
+  "WorkspaceRootPath": "C:\\Users\\antho\\OneDrive\\Escritorio\\PP-III\\ClaseUno\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|C:\\Users\\antho\\OneDrive\\Escritorio\\Nueva carpeta\\ClaseUno\\claseuno\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|c:\\users\\antho\\onedrive\\escritorio\\pp-iii\\claseuno\\claseuno\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|solutionrelative:claseuno\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|c:\\users\\antho\\onedrive\\escritorio\\nueva carpeta\\claseuno\\claseuno\\data\\contactmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|C:\\Users\\antho\\OneDrive\\Escritorio\\PP-III\\ClaseUno\\claseuno\\data\\contactmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|solutionrelative:claseuno\\data\\contactmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,24 +32,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ContactManagerContext.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Escritorio\\Nueva carpeta\\ClaseUno\\ClaseUno\\Data\\ContactManagerContext.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Escritorio\\PP-III\\ClaseUno\\ClaseUno\\Data\\ContactManagerContext.cs",
               "RelativeDocumentMoniker": "ClaseUno\\Data\\ContactManagerContext.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Escritorio\\Nueva carpeta\\ClaseUno\\ClaseUno\\Data\\ContactManagerContext.cs",
+              "ToolTip": "C:\\Users\\antho\\OneDrive\\Escritorio\\PP-III\\ClaseUno\\ClaseUno\\Data\\ContactManagerContext.cs",
               "RelativeToolTip": "ClaseUno\\Data\\ContactManagerContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T22:32:05.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T22:32:05.96Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Escritorio\\Nueva carpeta\\ClaseUno\\ClaseUno\\Model\\Contact.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Escritorio\\PP-III\\ClaseUno\\ClaseUno\\Model\\Contact.cs",
               "RelativeDocumentMoniker": "ClaseUno\\Model\\Contact.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Escritorio\\Nueva carpeta\\ClaseUno\\ClaseUno\\Model\\Contact.cs",
+              "ToolTip": "C:\\Users\\antho\\OneDrive\\Escritorio\\PP-III\\ClaseUno\\ClaseUno\\Model\\Contact.cs",
               "RelativeToolTip": "ClaseUno\\Model\\Contact.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T22:13:02Z",
               "EditorCaption": ""
