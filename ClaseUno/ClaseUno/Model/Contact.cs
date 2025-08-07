@@ -12,5 +12,6 @@ namespace ClaseUno.Model
         public string Email { get; set; }
         [Phone]
         public string Phone { get; set; }
+
     }
 }
