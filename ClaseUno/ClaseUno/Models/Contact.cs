@@ -3,7 +3,7 @@ namespace ClaseUno.Models
 {
     public class Contact
     {
-        public int Id { get; set; }
+        public int? Id { get; set; }
         [Required(ErrorMessage = "El nombre es obligatorio")]
         [StringLength(100)]
         public string? Name { get; set; }

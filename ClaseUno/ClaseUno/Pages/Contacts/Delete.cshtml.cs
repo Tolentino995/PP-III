@@ -14,7 +14,7 @@ namespace ClaseUno.Pages.Contacts
             _context = context;
         }
         [BindProperty]
-        public Contact Contact { get; set; }
+        public Contact? Contact { get; set; }
         public async Task<IActionResult> OnGetAsync(int? id)
         {
             if (id == null) return NotFound();
