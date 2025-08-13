@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ClaseUno.Model;
+using ClaseUno.Models;
 
 namespace ClaseUno.Data
 

@@ -18,6 +18,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\antho\OneDrive\Escritorio\PP-III\ClaseUno\ClaseUno
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/antho/OneDrive/Escritorio/PP-III/ClaseUno/ClaseUno/Pages/Contacts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/antho/OneDrive/Escritorio/PP-III/ClaseUno/ClaseUno/Pages/Contacts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/antho/OneDrive/Escritorio/PP-III/ClaseUno/ClaseUno/Pages/Contacts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/antho/OneDrive/Escritorio/PP-III/ClaseUno/ClaseUno/Pages/Contacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/antho/OneDrive/Escritorio/PP-III/ClaseUno/ClaseUno/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
