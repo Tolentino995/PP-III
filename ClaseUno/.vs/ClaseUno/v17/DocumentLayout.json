@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|c:\\users\\2\\desktop\\pp-iii\\claseuno\\claseuno\\pages\\contacts\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|solutionrelative:claseuno\\pages\\contacts\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|c:\\users\\2\\desktop\\pp-iii\\claseuno\\claseuno\\pages\\categories\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|solutionrelative:claseuno\\pages\\categories\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|c:\\users\\2\\desktop\\pp-iii\\claseuno\\claseuno\\pages\\contacts\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|solutionrelative:claseuno\\pages\\contacts\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|c:\\users\\2\\desktop\\pp-iii\\claseuno\\claseuno\\pages\\categories\\categorylist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|solutionrelative:claseuno\\pages\\categories\\categorylist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|c:\\users\\2\\desktop\\pp-iii\\claseuno\\claseuno\\pages\\contacts\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|solutionrelative:claseuno\\pages\\contacts\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|c:\\users\\2\\desktop\\pp-iii\\claseuno\\claseuno\\pages\\contacts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|solutionrelative:claseuno\\pages\\contacts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|c:\\users\\2\\desktop\\pp-iii\\claseuno\\claseuno\\pages\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|solutionrelative:claseuno\\pages\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|c:\\users\\2\\desktop\\pp-iii\\claseuno\\claseuno\\data\\contactmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|solutionrelative:claseuno\\data\\contactmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|c:\\users\\2\\desktop\\pp-iii\\claseuno\\claseuno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|solutionrelative:claseuno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|c:\\users\\2\\desktop\\pp-iii\\claseuno\\claseuno\\models\\category .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|solutionrelative:claseuno\\models\\category .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16952CAD-2D8F-4791-AD95-83E3364F6D7F}|ClaseUno\\ClaseUno.csproj|c:\\users\\2\\desktop\\pp-iii\\claseuno\\claseuno\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,73 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Program.cs",
-              "RelativeDocumentMoniker": "ClaseUno\\Program.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Program.cs",
-              "RelativeToolTip": "ClaseUno\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T22:24:36.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Pages\\Contacts\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "ClaseUno\\Pages\\Contacts\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Pages\\Contacts\\Create.cshtml.cs",
-              "RelativeToolTip": "ClaseUno\\Pages\\Contacts\\Create.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T22:30:12.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Pages\\Contacts\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "ClaseUno\\Pages\\Contacts\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Pages\\Contacts\\Details.cshtml.cs",
-              "RelativeToolTip": "ClaseUno\\Pages\\Contacts\\Details.cshtml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T21:54:21.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Pages\\Contacts\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "ClaseUno\\Pages\\Contacts\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Pages\\Contacts\\Delete.cshtml.cs",
-              "RelativeToolTip": "ClaseUno\\Pages\\Contacts\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T11:45:35.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Pages\\Contacts\\Details.cshtml",
-              "RelativeDocumentMoniker": "ClaseUno\\Pages\\Contacts\\Details.cshtml",
-              "ToolTip": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Pages\\Contacts\\Details.cshtml",
-              "RelativeToolTip": "ClaseUno\\Pages\\Contacts\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-13T21:54:03.062Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -109,9 +44,76 @@
               "RelativeDocumentMoniker": "ClaseUno\\Models\\Contact.cs",
               "ToolTip": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Models\\Contact.cs",
               "RelativeToolTip": "ClaseUno\\Models\\Contact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T22:13:02Z",
+              "WhenOpened": "2025-08-18T23:02:58.573Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category .cs",
+              "DocumentMoniker": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Models\\Category .cs",
+              "RelativeDocumentMoniker": "ClaseUno\\Models\\Category .cs",
+              "ToolTip": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Models\\Category .cs",
+              "RelativeToolTip": "ClaseUno\\Models\\Category .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T22:53:58.405Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactManagerContext.cs",
+              "DocumentMoniker": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Data\\ContactManagerContext.cs",
+              "RelativeDocumentMoniker": "ClaseUno\\Data\\ContactManagerContext.cs",
+              "ToolTip": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Data\\ContactManagerContext.cs",
+              "RelativeToolTip": "ClaseUno\\Data\\ContactManagerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:18:10.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Pages\\Contacts\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ClaseUno\\Pages\\Contacts\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Pages\\Contacts\\Index.cshtml.cs",
+              "RelativeToolTip": "ClaseUno\\Pages\\Contacts\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:10:34.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryList.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Pages\\Categories\\CategoryList.cshtml.cs",
+              "RelativeDocumentMoniker": "ClaseUno\\Pages\\Categories\\CategoryList.cshtml.cs",
+              "ToolTip": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Pages\\Categories\\CategoryList.cshtml.cs",
+              "RelativeToolTip": "ClaseUno\\Pages\\Categories\\CategoryList.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T22:58:21.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryList.cshtml",
+              "DocumentMoniker": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Pages\\Categories\\CategoryList.cshtml",
+              "RelativeDocumentMoniker": "ClaseUno\\Pages\\Categories\\CategoryList.cshtml",
+              "ToolTip": "C:\\Users\\2\\Desktop\\PP-III\\ClaseUno\\ClaseUno\\Pages\\Categories\\CategoryList.cshtml",
+              "RelativeToolTip": "ClaseUno\\Pages\\Categories\\CategoryList.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T22:57:27.573Z",
               "EditorCaption": ""
             }
           ]
